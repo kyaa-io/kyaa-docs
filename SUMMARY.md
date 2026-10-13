@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ByUs Developer Documentation](README.md "Overview")
+* [kyaa Developer Documentation](README.md "Overview")
 
 ## Start here
 

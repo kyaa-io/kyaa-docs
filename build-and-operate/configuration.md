@@ -1,5 +1,5 @@
 ---
-description: "Configure the ByUs web and worker runtimes without crossing the browser, server, worker, or secret-management boundaries."
+description: "Configure the kyaa web and worker runtimes without crossing the browser, server, worker, or secret-management boundaries."
 icon: sliders
 ---
 

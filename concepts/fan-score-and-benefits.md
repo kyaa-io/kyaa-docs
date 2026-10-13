@@ -1,5 +1,5 @@
 ---
-description: "See how verified fan actions become Fan Score, levels, and benefit eligibility in the current ByUs MVP."
+description: "See how verified fan actions become Fan Score, levels, and benefit eligibility in the current kyaa MVP."
 icon: gift
 ---
 

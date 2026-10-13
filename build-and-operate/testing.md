@@ -1,5 +1,5 @@
 ---
-description: "Run the ByUs unit, type, lint, build, end-to-end, contract, and security checks at the correct scope."
+description: "Run the kyaa unit, type, lint, build, end-to-end, contract, and security checks at the correct scope."
 icon: vial
 ---
 

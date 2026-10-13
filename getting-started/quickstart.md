@@ -1,11 +1,11 @@
 ---
-description: "Install the ByUs monorepo, configure the web application, start local development, and run the core quality checks."
+description: "Install the kyaa monorepo, configure the web application, start local development, and run the core quality checks."
 icon: rocket
 ---
 
 # Quickstart
 
-Run the ByUs web application locally and confirm the repository is ready for development.
+Run the kyaa web application locally and confirm the repository is ready for development.
 
 ## Requirements
 
@@ -18,8 +18,8 @@ Run the ByUs web application locally and confirm the repository is ready for dev
 ## 1. Clone and install
 
 ```bash
-git clone https://github.com/ByUs-FanPassport/ByUs.git
-cd ByUs
+git clone https://github.com/kyaa-io/kyaa.git
+cd kyaa
 npm ci
 ```
 

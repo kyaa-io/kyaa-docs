@@ -7,9 +7,11 @@ layout:
 
 # MVP and on-chain proof
 
-The current evidence set combines live product captures from [byus.kr](https://byus.kr/?locale=en) with successful transactions on the official GIWA Sepolia Explorer.
+This historical evidence set combines product captures from the earlier ByUs release at [byus.kr](https://byus.kr/?locale=en) with successful transactions on the official GIWA Sepolia Explorer.
 
-## Live product
+The current service is [kyaa](https://kyaa.io/?locale=en). The captures, original links, and onchain proof below retain their original context.
+
+## Earlier product captures
 
 <table data-view="cards">
   <thead>
@@ -80,7 +82,7 @@ Both transaction receipts returned `status: 0x1` from the GIWA Sepolia RPC on Ju
 
 ## Evidence boundary
 
-- Product images on this page are captures from the live ByUs product, not reconstructed interface mockups.
+- Product images on this page are captures from the earlier live ByUs release, not reconstructed interface mockups.
 - The transactions are public testnet records.
 - GIWA Sepolia is a test network; no real assets are used.
 - Operational fan data and benefit delivery remain off-chain.

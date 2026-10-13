@@ -1,5 +1,5 @@
 ---
-description: "Build with ByUs: the fan participation layer that turns verified activity into Passport, Stamp, and benefit records on GIWA."
+description: "Build with kyaa: the fan participation layer that turns verified activity into Passport, Stamp, and benefit records on GIWA."
 cover: .gitbook/assets/byus-docs-cover.png
 coverY: 0
 layout:
@@ -19,14 +19,18 @@ layout:
     visible: true
 ---
 
-# ByUs Developer Documentation
+# kyaa Developer Documentation
 
-ByUs turns fan participation into a persistent, verifiable record. Fans discover a favorite, verify their fandom, receive a creator-specific Fan Passport, collect Stamps through LIVE activities, and unlock benefits based on what they actually did.
+Kyaa. Every Fan Moment Counts.
 
-<img src=".gitbook/assets/byus-wordmark.svg" alt="ByUs" width="180">
+Product captures and transaction examples from the earlier ByUs release are retained as historical evidence. Existing NFT names, addresses, and metadata remain unchanged.
+
+kyaa turns fan participation into a persistent, verifiable record. Fans discover a favorite, verify their fandom, receive a creator-specific Fan Passport, collect Stamps through LIVE activities, and unlock benefits based on what they actually did.
+
+<img src=".gitbook/assets/kyaa-wordmark.svg" alt="kyaa" width="180">
 
 {% hint style="success" %}
-A working ByUs MVP is live at [byus.kr](https://byus.kr/?locale=en). Fan Passport and Stamp mint transactions are verifiable on GIWA Sepolia.
+A working kyaa MVP is live at [kyaa.io](https://kyaa.io/?locale=en). Fan Passport and Stamp mint transactions are verifiable on GIWA Sepolia.
 {% endhint %}
 
 <!-- Text-only navigation cards: pitch-deck thumbnails are intentionally omitted. -->
@@ -47,7 +51,7 @@ A working ByUs MVP is live at [byus.kr](https://byus.kr/?locale=en). Fan Passpor
     </tr>
     <tr>
       <td><strong>Understand the architecture</strong></td>
-      <td>See how Privy, the ByUs BFF, Supabase, the mint worker, IPFS, and GIWA work together.</td>
+      <td>See how Privy, the kyaa BFF, Supabase, the mint worker, IPFS, and GIWA work together.</td>
       <td><a href="architecture/overview.md">architecture/overview.md</a></td>
     </tr>
     <tr>
@@ -58,12 +62,12 @@ A working ByUs MVP is live at [byus.kr](https://byus.kr/?locale=en). Fan Passpor
   </tbody>
 </table>
 
-## What ByUs provides
+## What kyaa provides
 
 | Layer | What it does |
 | --- | --- |
 | Fan experience | Discovery, Google sign-in, fan verification, LIVE reservation, attendance, surveys, Passport, Stamps, and benefits |
-| Identity | A Privy embedded EVM wallet linked to the canonical ByUs fan account |
+| Identity | A Privy embedded EVM wallet linked to the canonical kyaa fan account |
 | Operational data | Owner-scoped activity, score, level, eligibility, claims, and mint state in Supabase |
 | Verifiable credentials | Soulbound Fan Passport and Live Stamp credentials issued on GIWA Sepolia |
 | Operations | Server-side BFF, idempotent minting, notifications, and an internal operations console |
@@ -76,9 +80,9 @@ A working ByUs MVP is live at [byus.kr](https://byus.kr/?locale=en). Fan Passpor
 | Chain ID | `91342` |
 | Passport standard | Soulbound ERC-721 |
 | Stamp standard | Soulbound ERC-1155 |
-| Product | [byus.kr](https://byus.kr/?locale=en) |
-| Application source | [ByUs-FanPassport/ByUs](https://github.com/ByUs-FanPassport/ByUs) |
-| Contract source | [ByUs-FanPassport/ByUs-Contracts](https://github.com/ByUs-FanPassport/ByUs-Contracts) |
+| Product | [kyaa.io](https://kyaa.io/?locale=en) |
+| Application source | [kyaa-io/kyaa](https://github.com/kyaa-io/kyaa) |
+| Contract source | [kyaa-io/kyaa-contracts](https://github.com/kyaa-io/kyaa-contracts) |
 
 ## Start here
 
@@ -91,4 +95,4 @@ A working ByUs MVP is live at [byus.kr](https://byus.kr/?locale=en). Fan Passpor
 
 <img src=".gitbook/assets/sallylab-logo.svg" alt="SallyLab" width="150">
 
-ByUs is built by SallyLab.
+kyaa is built by SallyLab.

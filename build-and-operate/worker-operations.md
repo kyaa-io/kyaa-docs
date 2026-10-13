@@ -1,11 +1,11 @@
 ---
-description: "Operate the one-shot ByUs mint and notification workers with explicit enablement, lease ownership, environment isolation, and safe recovery."
+description: "Operate the one-shot kyaa mint and notification workers with explicit enablement, lease ownership, environment isolation, and safe recovery."
 icon: gears
 ---
 
 # Worker operations
 
-ByUs background workers are one-shot, environment-scoped, and disabled by default.
+kyaa background workers are one-shot, environment-scoped, and disabled by default.
 
 ## Mint worker
 

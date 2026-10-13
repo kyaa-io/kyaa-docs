@@ -1,5 +1,5 @@
 ---
-description: "Understand the ByUs system boundary across the Next.js BFF, Privy, Supabase, one-shot workers, IPFS, and GIWA Sepolia."
+description: "Understand the kyaa system boundary across the Next.js BFF, Privy, Supabase, one-shot workers, IPFS, and GIWA Sepolia."
 icon: diagram-project
 layout:
   width: wide
@@ -7,7 +7,7 @@ layout:
 
 # System overview
 
-ByUs uses a database-first product architecture with an asynchronous on-chain credential projection.
+kyaa uses a database-first product architecture with an asynchronous on-chain credential projection.
 
 ```mermaid
 flowchart LR
@@ -41,7 +41,7 @@ The browser does not read private Supabase tables directly.
 For a protected request, the Next.js BFF:
 
 1. verifies the Privy access token;
-2. resolves the canonical ByUs user;
+2. resolves the canonical kyaa user;
 3. verifies the embedded EVM wallet;
 4. performs the owner-scoped operation with server credentials;
 5. returns only the projection required by the product screen.
@@ -59,7 +59,7 @@ The GIWA layer records:
 - immutable metadata URI.
 
 {% hint style="info" %}
-ByUs does not put the full fan profile, quiz answers, attendance logs, Fan CRM, or benefit fulfillment data on-chain.
+kyaa does not put the full fan profile, quiz answers, attendance logs, Fan CRM, or benefit fulfillment data on-chain.
 {% endhint %}
 
 ## Credential flow

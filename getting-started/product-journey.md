@@ -1,5 +1,5 @@
 ---
-description: "Follow the implemented ByUs fan journey from discovery and verification to LIVE activity, Passport records, and benefits."
+description: "Follow the implemented kyaa fan journey from discovery and verification to LIVE activity, Passport records, and benefits."
 icon: route
 layout:
   width: wide
@@ -7,25 +7,25 @@ layout:
 
 # Product journey
 
-ByUs connects discovery, identity, participation, and benefits in one continuous fan journey.
+kyaa connects discovery, identity, participation, and benefits in one continuous fan journey.
 
 ## 1. Discover
 
-<figure><img src="../.gitbook/assets/discover-production.png" alt="ByUs Discover screen showing creator and LIVE discovery"><figcaption>Discover creators, upcoming LIVE events, and active fan journeys.</figcaption></figure>
+<figure><img src="../.gitbook/assets/discover-production.png" alt="Earlier ByUs Discover screen showing creator and LIVE discovery"><figcaption>Earlier ByUs release: Discover creators, upcoming LIVE events, and active fan journeys.</figcaption></figure>
 
 Fans browse published creators and upcoming LIVE events through:
 
-- [Home](https://byus.kr/?locale=en)
-- [LIVE](https://byus.kr/live?locale=en)
-- [Celebrities](https://byus.kr/celebrities?locale=en)
+- [Home](https://kyaa.io/?locale=en)
+- [LIVE](https://kyaa.io/live?locale=en)
+- [Celebrities](https://kyaa.io/celebrities?locale=en)
 
 The product surfaces the creator and LIVE first; Passport and benefit actions follow from that context.
 
 ## 2. Sign in and verify
 
-<figure><img src="../.gitbook/assets/verify-production.png" alt="ByUs fan verification screen"><figcaption>Creator-specific fan verification before the first Passport and Knowledge Stamp are issued.</figcaption></figure>
+<figure><img src="../.gitbook/assets/verify-production.png" alt="Earlier ByUs fan verification screen"><figcaption>Earlier ByUs release: Creator-specific fan verification before the first Passport and Knowledge Stamp are issued.</figcaption></figure>
 
-Fans sign in with Google. Privy provisions an embedded EVM wallet in the background, and the ByUs server verifies the identity and wallet before synchronizing the fan profile.
+Fans sign in with Google. Privy provisions an embedded EVM wallet in the background, and the kyaa server verifies the identity and wallet before synchronizing the fan profile.
 
 The fan then:
 
@@ -42,7 +42,7 @@ Fans do not need to install a browser wallet or manage a seed phrase to enter th
 
 ## 3. Participate in LIVE
 
-<figure><img src="../.gitbook/assets/participate-production.png" alt="ByUs LIVE participation screen"><figcaption>Reserve a LIVE, watch on YouTube, and enter the Fan Code shared during the event.</figcaption></figure>
+<figure><img src="../.gitbook/assets/participate-production.png" alt="Earlier ByUs LIVE participation screen"><figcaption>Earlier ByUs release: Reserve a LIVE, watch on YouTube, and enter the Fan Code shared during the event.</figcaption></figure>
 
 The current LIVE journey is:
 
@@ -73,7 +73,7 @@ The Fan Passport brings together:
 
 ## 5. Unlock benefits
 
-<figure><img src="../.gitbook/assets/benefit-production.png" alt="ByUs benefits screen"><figcaption>Benefits become claimable when the fan satisfies the configured participation requirements.</figcaption></figure>
+<figure><img src="../.gitbook/assets/benefit-production.png" alt="Earlier ByUs benefits screen"><figcaption>Earlier ByUs release: Benefits become claimable when the fan satisfies the configured participation requirements.</figcaption></figure>
 
 Benefit eligibility can combine Fan Score, level, required Stamps or activities, claim period, and remaining inventory.
 

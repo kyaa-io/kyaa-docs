@@ -1,11 +1,11 @@
 ---
-description: "Learn what ByUs stores off-chain, what it publishes on-chain, and how owner-scoped access and metadata filtering protect fan data."
+description: "Learn what kyaa stores off-chain, what it publishes on-chain, and how owner-scoped access and metadata filtering protect fan data."
 icon: shield-halved
 ---
 
 # Data and privacy
 
-ByUs separates product data from public credential data.
+kyaa separates product data from public credential data.
 
 ## Off-chain operational data
 
@@ -52,7 +52,7 @@ The on-chain record proves credential issuance without publishing the fan's priv
 Passport and Stamp screens are built from server-side owner projections:
 
 1. the server verifies the Privy session;
-2. the request is bound to the canonical ByUs user ID;
+2. the request is bound to the canonical kyaa user ID;
 3. owner-scoped database functions return only that fan's credential view;
 4. responses are marked `no-store`.
 

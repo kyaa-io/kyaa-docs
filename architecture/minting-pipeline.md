@@ -5,7 +5,7 @@ icon: arrows-rotate
 
 # Minting pipeline
 
-ByUs makes the product record usable first, then mints the matching credential asynchronously.
+kyaa makes the product record usable first, then mints the matching credential asynchronously.
 
 ## Processing sequence
 

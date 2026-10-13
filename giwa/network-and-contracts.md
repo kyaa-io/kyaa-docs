@@ -1,5 +1,5 @@
 ---
-description: "Reference the current ByUs GIWA Sepolia network configuration, deployed Passport and Stamp addresses, and contract behavior."
+description: "Reference the current kyaa GIWA Sepolia network configuration, deployed Passport and Stamp addresses, and contract behavior."
 icon: file-contract
 ---
 
@@ -7,7 +7,7 @@ icon: file-contract
 
 The addresses on this page were rechecked against the GIWA Sepolia RPC on July 31, 2026.
 
-The independently buildable and tested contract package is available at [ByUs-FanPassport/ByUs-Contracts](https://github.com/ByUs-FanPassport/ByUs-Contracts).
+The independently buildable and tested contract package is available at [kyaa-io/kyaa-contracts](https://github.com/kyaa-io/kyaa-contracts).
 
 ## Network
 
@@ -52,7 +52,7 @@ event PassportMinted(
 );
 ```
 
-Source: [`contracts/src/ByUsPassport.sol`](https://github.com/ByUs-FanPassport/ByUs/blob/main/contracts/src/ByUsPassport.sol)
+Source: [`contracts/src/ByUsPassport.sol`](https://github.com/kyaa-io/kyaa/blob/main/contracts/src/ByUsPassport.sol)
 
 ## Live Stamp contract
 
@@ -73,7 +73,7 @@ event StampMinted(
 );
 ```
 
-Source: [`contracts/src/ByUsStamp.sol`](https://github.com/ByUs-FanPassport/ByUs/blob/main/contracts/src/ByUsStamp.sol)
+Source: [`contracts/src/ByUsStamp.sol`](https://github.com/kyaa-io/kyaa/blob/main/contracts/src/ByUsStamp.sol)
 
 ## Role separation
 

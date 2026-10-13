@@ -1,5 +1,5 @@
 ---
-description: "Open the live ByUs product, source repository, GIWA documentation, deployed contracts, proof transactions, and legal pages."
+description: "Open the live kyaa product, source repository, GIWA documentation, deployed contracts, proof transactions, and legal pages."
 icon: books
 ---
 
@@ -7,22 +7,22 @@ icon: books
 
 ## Product
 
-- [ByUs](https://byus.kr/)
-- [English home](https://byus.kr/?locale=en)
-- [LIVE](https://byus.kr/live?locale=en)
-- [Celebrities](https://byus.kr/celebrities?locale=en)
-- [Fan verification](https://byus.kr/c/katseye/verify?locale=en)
-- [Benefits](https://byus.kr/benefits?locale=en)
+- [kyaa](https://kyaa.io/)
+- [English home](https://kyaa.io/?locale=en)
+- [LIVE](https://kyaa.io/live?locale=en)
+- [Celebrities](https://kyaa.io/celebrities?locale=en)
+- [Fan verification](https://kyaa.io/c/katseye/verify?locale=en)
+- [Benefits](https://kyaa.io/benefits?locale=en)
 - [Login](https://byus.kr/login?locale=en)
-- [ByUs pitch deck (PDF)](https://docs.google.com/presentation/d/10a9xoaRKJhAXzbBOguwKFM-wmOPlmRg9gy_EFRr0rss/export/pdf)
+- [ByUs pitch deck (historical PDF)](https://docs.google.com/presentation/d/10a9xoaRKJhAXzbBOguwKFM-wmOPlmRg9gy_EFRr0rss/export/pdf)
 
 ## Source
 
-- [ByUs product repository](https://github.com/ByUs-FanPassport/ByUs)
-- [ByUs contract repository](https://github.com/ByUs-FanPassport/ByUs-Contracts)
-- [ByUs documentation repository](https://github.com/ByUs-FanPassport/ByUs---GitBook)
-- [Fan Passport contract source](https://github.com/ByUs-FanPassport/ByUs-Contracts/blob/main/src/ByUsPassport.sol)
-- [Live Stamp contract source](https://github.com/ByUs-FanPassport/ByUs-Contracts/blob/main/src/ByUsStamp.sol)
+- [kyaa product repository](https://github.com/kyaa-io/kyaa)
+- [kyaa contract repository](https://github.com/kyaa-io/kyaa-contracts)
+- [kyaa documentation repository](https://github.com/kyaa-io/kyaa-docs)
+- [Fan Passport contract source](https://github.com/kyaa-io/kyaa-contracts/blob/main/src/ByUsPassport.sol)
+- [Live Stamp contract source](https://github.com/kyaa-io/kyaa-contracts/blob/main/src/ByUsStamp.sol)
 
 ## GIWA
 
@@ -36,8 +36,8 @@ icon: books
 
 ## Legal
 
-- [Privacy Policy](https://byus.kr/privacy?locale=en)
-- [Terms of Service](https://byus.kr/terms?locale=en)
+- [Privacy Policy](https://kyaa.io/privacy?locale=en)
+- [Terms of Service](https://kyaa.io/terms?locale=en)
 
 {% hint style="info" %}
 The deployed contracts and proof transactions on this page are GIWA Sepolia testnet records.

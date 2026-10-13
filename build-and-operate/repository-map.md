@@ -1,5 +1,5 @@
 ---
-description: "Navigate the ByUs monorepo and understand which packages own the production app, workers, contracts, data model, and tooling."
+description: "Navigate the kyaa monorepo and understand which packages own the production app, workers, contracts, data model, and tooling."
 icon: folder-tree
 ---
 
@@ -8,7 +8,7 @@ icon: folder-tree
 The production system lives in a single npm workspace repository.
 
 ```text
-ByUs/
+kyaa/
 ├── apps/
 │   ├── web/
 │   └── worker/
@@ -80,4 +80,4 @@ Environment, deployment, security, media, and verification tooling used by maint
 
 ## Source repository
 
-[github.com/ByUs-FanPassport/ByUs](https://github.com/ByUs-FanPassport/ByUs)
+[github.com/kyaa-io/kyaa](https://github.com/kyaa-io/kyaa)

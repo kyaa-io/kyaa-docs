@@ -1,5 +1,5 @@
 ---
-description: "Understand the four ByUs Live Stamp types, their fan actions, score values, and soulbound ERC-1155 credential model."
+description: "Understand the four kyaa Live Stamp types, their fan actions, score values, and soulbound ERC-1155 credential model."
 icon: stamp
 layout:
   width: wide

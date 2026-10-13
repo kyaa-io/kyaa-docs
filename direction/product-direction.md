@@ -1,5 +1,5 @@
 ---
-description: "Understand the current ByUs utility, the next product layers, and the long-term direction from Fan Passport to a global fandom graph."
+description: "Understand the current kyaa utility, the next product layers, and the long-term direction from Fan Passport to a global fandom graph."
 icon: compass
 layout:
   width: wide
@@ -7,7 +7,7 @@ layout:
 
 # Product direction
 
-ByUs starts with working utility and expands only from verified fan behavior.
+kyaa starts with working utility and expands only from verified fan behavior.
 
 ## Current: Fan Passport utility
 

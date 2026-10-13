@@ -11,13 +11,13 @@ A Fan Passport is a creator-specific record of verified fan activity.
 
 It connects what the fan did in the product with a durable ownership and verification record on GIWA.
 
-<figure><img src="../.gitbook/assets/fan-passport-product.png" alt="ByUs Fan Passport product screen"><figcaption>A Fan Passport combines identity, progress, activity, Stamps, and benefit context.</figcaption></figure>
+<figure><img src="../.gitbook/assets/fan-passport-product.png" alt="Earlier ByUs Fan Passport product screen"><figcaption>Earlier ByUs release: A Fan Passport combines identity, progress, activity, Stamps, and benefit context.</figcaption></figure>
 
 ## What a Passport contains
 
 | Area | Purpose |
 | --- | --- |
-| Fan identity | Connects one ByUs fan to one creator context |
+| Fan identity | Connects one kyaa fan to one creator context |
 | Fan Score | Aggregates verified participation points |
 | Fan level | Shows Bronze-to-Diamond progression |
 | Stamp Book | Collects Knowledge, Reservation, Attendance, and Survey Stamps |
